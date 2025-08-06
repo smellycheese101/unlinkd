@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/m1-hu.png?raw=true",M1 SD
+http://195.189.60.31:8003/play/a09o/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/m2-hu.png?raw=true",M2 HD
+http://195.189.60.31:8003/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/duna-hu.png?raw=true",Duna HD
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/m4-sport-hu.png?raw=true",M4 Sport HD
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31519/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/m5-hu.png?raw=true",M5 HD
+http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/m5-hu.png?raw=true",Duna World/M4 Sport+
+http://185.236.230.212:9981/play/a0an
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/rtl-hu.png?raw=true",RTL HD
+http://195.189.60.31:8003/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/spektrum-home-hu.png?raw=true",Spektrum Home HD
+http://195.189.60.31:8003/play/a09y/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/tv2-hu.png?raw=true",TV2 HD Magyarország
+http://195.189.60.31:8003/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/max4-hu.png?raw=true",MAX4
+http://195.189.60.31:8003/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/film-plus-hu.png?raw=true",FILM+
+http://185.236.230.212:9981/play/a0ao
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/mozi-plus-hu.png?raw=true",Mozi+
+http://195.189.60.31:8003/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/super-tv2-hu.png?raw=true",Super TV2
+http://185.236.230.212:9981/play/a0br
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/rtl-ketto-hu.png?raw=true",RTL Kettő HD
+http://195.189.60.31:8003/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/rtl-harom-hu.png?raw=true",RTL Három HD
+http://195.189.60.31:8003/play/a0i6/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/amc-hu.png?raw=true",AMC Magyarország
+http://195.189.60.31:8003/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/tv4-hu.png?raw=true",TV4
+http://195.189.60.31:8003/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/tv2-comedy-hu.png?raw=true",TV2 Comedy
+http://195.189.60.31:8003/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true",National Geographic
+http://195.189.60.31:8003/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/sport1-hu.png?raw=true",Sport1 HD
+http://195.189.60.31:8003/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/hir-tv-hu.png?raw=true",Hír TV HD
+#EXTVLCOPT:http-user-agent=Chrome
+https://video2.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/rtl-gold-hu.png?raw=true",RTL GOLD
+http://195.189.60.31:8003/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/sorozat-plus-hu.png?raw=true",Sorozat+
+http://195.189.60.31:8003/play/a0dv/index.m3u8
