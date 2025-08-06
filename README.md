@@ -10,7 +10,7 @@ Join our Discord: https://discord.gg/CpfK3b3F2k
 <img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/main/example_imgs/image.png" /> HRT 1 stream screenshot from the official unlinkd Croatian playlist.
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/14f02fea8f5cbe76f1fa1d9c6701f83bcb832050/example_imgs/K%C3%A9perny%C5%91k%C3%A9p%202025-08-06%20194959.png" /> RTL stream screensho from the official unlinkd Hungarian stream.
+<img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/14f02fea8f5cbe76f1fa1d9c6701f83bcb832050/example_imgs/K%C3%A9perny%C5%91k%C3%A9p%202025-08-06%20194959.png" /> RTL stream screenshot from the official unlinkd Hungarian stream.
 
 
 ## Warning
