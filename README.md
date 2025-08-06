@@ -11,3 +11,8 @@ Join our Discord: https://discord.gg/CpfK3b3F2k
 
 ## Warning
 You can use this M3U playlist for free, but when copying our M3U links, make sure to credit us, since it **is** required by the CC BY 4.0 license. If not credited, you'll be alerted via e-mail or direct message. If failing to credit within 7 days, a cease and desist letter will be sent.
+
+
+## Contributors
+This is a list who coded and contributed to the unlinkd streams. We give huge respect to the following:
+**thearianet**
