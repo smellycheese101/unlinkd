@@ -15,7 +15,7 @@ http://185.236.230.212:9981/play/a0an
 http://195.189.60.31:8003/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/spektrum-home-hu.png?raw=true",Spektrum Home HD
 http://195.189.60.31:8003/play/a09y/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/tv2-hu.png?raw=true",TV2 HD Magyarország
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/tv2-hu.png?raw=true",TV2 HD
 http://195.189.60.31:8003/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/max4-hu.png?raw=true",MAX4
 http://195.189.60.31:8003/play/a0gi/index.m3u8
@@ -29,7 +29,7 @@ http://185.236.230.212:9981/play/a0br
 http://195.189.60.31:8003/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/rtl-harom-hu.png?raw=true",RTL Három HD
 http://195.189.60.31:8003/play/a0i6/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/amc-hu.png?raw=true",AMC Magyarország
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/amc-hu.png?raw=true",AMC HU
 http://195.189.60.31:8003/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/tv4-hu.png?raw=true",TV4
 http://195.189.60.31:8003/play/a0ci/index.m3u8
