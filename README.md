@@ -7,7 +7,7 @@ Join our Discord: https://discord.gg/CpfK3b3F2k
 
 
 ## Example images from unlinkd M3U links
-<img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/lob/main/example_imgs/1_tv2_hun.png" />
+<img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/main/example_imgs/1_tv2_hun.png" />
 
 
 
