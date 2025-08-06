@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NPO 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/npo1-nl.png" ,NPO 1 HD
+http://193.239.186.231/NPO1/index.m3u8
+#EXTINF:-1 tvg-id="NPO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/npo2-nl.png" ,NPO 2 HD (Teletext & Dubbing)
+http://86.85.245.213:9981/stream/channelid/1091595793?profile=pass
+#EXTINF:-1 tvg-id="NPO 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/npo3-nl.png" ,NPO 3 HD
+http://193.239.186.231/NPO3/index.m3u8
+#EXTINF:-1 tvg-id="RTL 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/rtl4-nl.png" ,RTL 4 HD (Teletext & Dubbing)
+http://http://185.236.230.212:9981/play/a0a7
+#EXTINF:-1 tvg-id="RTL 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/rtl5-nl.png" ,RTL 5 HD (Teletext & Dubbing)
+http://http://185.236.230.212:9981/play/a0a8
+#EXTINF:-1 tvg-id="RTL 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/rtl7-nl.png" ,RTL 7 HD (Teletext & Dubbing)
+http://http://185.236.230.212:9981/play/a0a9
+#EXTINF:-1 tvg-id="RTL 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/rtl8-nl.png" ,RTL 8 HD (Teletext & Dubbing)
+http://http://185.236.230.212:9981/play/a0ab
+#EXTINF:-1 tvg-id="RTL Z" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/netherlands/rtlz-nl.png" ,RTL Z SD
+http://http://185.236.230.212:9981/play/a0ae
+#EXTINF:-1 tvg-id="Filmbox HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/hungary/filmbox-hu.png" Filmbox HD
+http://http://185.236.230.212:9981/play/a09t
