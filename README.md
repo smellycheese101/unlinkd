@@ -8,7 +8,7 @@ Join our Discord: https://discord.gg/CpfK3b3F2k
 
 ## Example images from unlinkd M3U links
 <img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/main/example_imgs/image.png" /> HRT 1 stream screenshot from the official unlinkd Croatian playlist.
-
+<img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/main/example_imgs/image.png" />
 
 
 ## Warning
