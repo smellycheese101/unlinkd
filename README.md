@@ -1,5 +1,5 @@
 # unlinkd
-unlinkd is an M3U playlist that supports many countries, and plus, it's completely free.
+unlinkd is an M3U playlist that gives free access to most channels in many countries, and plus, it's completely free.
 
 It is still in development, so expect a small amount of playlists.
 
