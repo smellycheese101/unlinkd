@@ -1,7 +1,7 @@
 # unlinkd
 unlinkd is an M3U playlist that supports many countries, and plus, it's completely free.
 
-It is still in development, so expect small playlists.
+It is still in development, so expect a small amount of playlists.
 
 Join our Discord: https://discord.gg/CpfK3b3F2k
 
