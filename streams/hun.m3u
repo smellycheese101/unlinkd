@@ -39,9 +39,6 @@ http://195.189.60.31:8003/play/a0cm/index.m3u8
 http://195.189.60.31:8003/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/sport1-hu.png?raw=true",Sport1 HD
 http://195.189.60.31:8003/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/hir-tv-hu.png?raw=true",Hír TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
-https://video2.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/rtl-gold-hu.png?raw=true",RTL GOLD
 http://195.189.60.31:8003/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/sorozat-plus-hu.png?raw=true",Sorozat+
