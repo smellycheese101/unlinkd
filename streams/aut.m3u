@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ORF 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/orf1-at.png" ,ORF 1 SD
-#EXTVLCOPT:http-referrer=https://livestreamde.com/
-https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:-1 tvg-id="ORF 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/orf1-at.png" ,ORF 1
+https://viamotionhsi.netplus.vh/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:-1 tvg-id="ORF 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/orf2-at.png" ,ORF 2
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 tvg-id="ORF 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/orf3-at.png" ,ORF 3 (Geo-blocked?)
