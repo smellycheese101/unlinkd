@@ -5,6 +5,8 @@ It is still in development, so expect a small amount of playlists.
 
 Join our Discord: https://discord.gg/CpfK3b3F2k
 
+All streams will be tested through VLC, so if you encounter any errors with any stream, tell us!
+
 
 ## Example images from unlinkd M3U links
 <img width="1920" height="1080" alt="image" src="https://github.com/smellycheese101/unlinkd/blob/main/example_imgs/image.png" /> HRT 1 stream screenshot from the official unlinkd Croatian playlist.
@@ -15,6 +17,8 @@ Join our Discord: https://discord.gg/CpfK3b3F2k
 
 ## Warning
 You can use this M3U playlist for free, but when copying our M3U links, make sure to credit us, since it **is** required by the CC BY 4.0 license. If not credited, you'll be alerted via e-mail or direct message. If failing to credit within 7 days, a cease and desist letter will be sent.
+
+**M3U streams warning!**    Some streams might not be 24/7, or might be geo-blocked.
 
 
 ## Contributors
