@@ -28,7 +28,7 @@ We have labeled some channels HD, some SD. Here's a list of how we label the qua
 1440p (if even exists) - 2K
 1080p - HD
 720p - No label
->720p - SD
+Less than 720p - SD
 
 
 ## Contributors
