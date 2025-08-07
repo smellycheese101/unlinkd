@@ -18,7 +18,17 @@ All streams will be tested through VLC, so if you encounter any errors with any 
 ## Warning
 You can use this M3U playlist for free, but when copying our M3U links, make sure to credit us, since it **is** required by the CC BY 4.0 license. If not credited, you'll be alerted via e-mail or direct message. If failing to credit within 7 days, a cease and desist letter will be sent.
 
-**M3U streams warning!**    Some streams might not be 24/7, or might be geo-blocked.
+**M3U streams warning!** Some streams might not be 24/7, or might be geo-blocked.
+
+## Quality labels
+We have labeled some channels HD, some SD. Here's a list of how we label the quality of our TV channels:
+
+4320p - 8K
+2160p - 4K
+1440p (if even exists) - 2K
+1080p - HD
+720p - No label
+>720p - SD
 
 
 ## Contributors
