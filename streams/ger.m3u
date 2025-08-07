@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1,Das Erste HD
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
+#EXTINF:-1,ZDF HD
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1,RTL HD
+https://izle.canlitvapp.com/rtl/index.m3u8
+#EXTINF:-1,RTLZWEI HD
+https://izle.canlitvapp.com/rtl2/index.m3u8
+#EXTINF:-1,RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1,RTLZWEI
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+#EXTINF:-1,VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1,ZDFneo HD
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1,ZDFinfo HD
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+#EXTINF:-1,SAT.1
+http://tv.schulzens.com/stream/channelid/911200071?profile=pass
+#EXTINF:-1,ProSieben
+http://tv.schulzens.com/stream/channelid/82735816?profile=pass
+#EXTINF:-1,RTLup
+http://tv.schulzens.com/stream/channelid/682684?profile=pass
+#EXTINF:-1,VOXup
+http://212.95.30.186:9981/stream/channelid/1775007211?profile=pass
+#EXTINF:-1,Sat.1 Gold
+http://tv.schulzens.com/stream/channelid/1282050404?profile=pass
+#EXTINF:-1,SUPER RTL
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1,DF1 HD
+http://tv.schulzens.com/stream/channelid/872895384?profile=pass
+#EXTINF:-1,3sat HD
+http://tv.schulzens.com/stream/channelid/1535324561?profile=pass
+#EXTINF:-1,SPORT1 HD
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1,Eurosport 1
+https://hometv.andismirre.de/stream/channelid/1243999960?profile=pass
+#EXTINF:-1,sport1 SD 
+https://hometv.andismirre.de/stream/channelid/1109819836?profile=ffmpeg
+#EXTINF:-1,SERIEN+
+https://hometv.andismirre.de/stream/channelid/464421577?profile=pass
+#EXTINF:-1,Arte HD
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
+#EXTINF:-1,WELT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
+#EXTINF:-1,N-24
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
+#EXTINF:-1,hessen-fernsehen HD
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
+#EXTINF:-1,SWR BW HD
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
+#EXTINF:-1,rbb HD
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
+#EXTINF:-1,TELE 5
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+#EXTINF:-1,KiKA HD
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+#EXTINF:-1,ARD alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
+#EXTINF:-1,NDR
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
+#EXTINF:-1,kabel eins
+https://hometv.andismirre.de/stream/channelid/890622246?profile=pass
+#EXTINF:-1,kabel eins doku
+https://hometv.andismirre.de/stream/channelid/1644681120?profile=ffmpeg
+#EXTINF:-1,Pro7 MAXX
+https://hometv.andismirre.de/stream/channelid/1792866854?profile=ffmpeg
+#EXTINF:-1,Zwei Music TV 
+https://hometv.andismirre.de/stream/channelid/348100690?profile=ffmpeg
+#EXTINF:-1,NITRO 
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#EXTINF:-1,sixx
+https://hometv.andismirre.de/stream/channelid/960977321?profile=ffmpeg
+#EXTINF:-1,SAT.1 Bayern
+https://hometv.andismirre.de/stream/channelid/1078435629?profile=ffmpeg
+#EXTINF:-1,SAT.1 HH/SH 
+https://hometv.andismirre.de/stream/channelid/2059163147?profile=ffmpeg
+#EXTINF:-1,SAT.1 NRW 
+https://hometv.andismirre.de/stream/channelid/296729955?profile=ffmpeg
+#EXTINF:-1,SAT.1 Bremen 
+https://hometv.andismirre.de/stream/channelid/1849541911?profile=ffmpeg
+#EXTINF:-1,SAT.1 Hessen 
+https://hometv.andismirre.de/stream/channelid/229849613?profile=ffmpeg
+#EXTINF:-1,Deluxe Music 
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1,Just Cooking
+https://hometv.andismirre.de/stream/channelid/1849155856?profile=ffmpeg
+#EXTINF:-1,just.fishing
+https://hometv.andismirre.de/stream/channelid/1249923561?profile=ffmpeg
