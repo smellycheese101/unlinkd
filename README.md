@@ -23,12 +23,17 @@ You can use this M3U playlist for free, but when copying our M3U links, make sur
 ## Quality labels
 We have labeled some channels HD, some SD. Here's a list of how we label the quality of our TV channels:
 
-4320p - 8K
-2160p - 4K
-1440p (if even exists) - 2K
-1080p - HD
-720p - No label
-Less than 720p - SD
+**4320p** - 8K
+
+**2160p** - 4K
+
+**1440p** (if even exists) - 2K
+
+**1080p** - HD
+
+**720p** - No label
+
+**Less than 720p** - SD
 
 
 ## Contributors
